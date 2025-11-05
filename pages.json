@@ -4,6 +4,15 @@
 		"style": {
 			"navigationBarTitleText": "uni-app"
 		}
+	},
+	{
+		"path" : "pages/05refuel/05refuel",
+		"style" : 
+		{
+			"navigationBarTitleText" : "就近加油",
+			"navigationBarBackgroundColor": "#3184fd",
+			"navigationBarTextStyle": "white"
+		}
 	}],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
