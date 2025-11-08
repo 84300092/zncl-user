@@ -6,14 +6,58 @@
 		}
 	},
 	{
+		"path" : "pages/login/login",
+		"style" : 
+		{
+			"navigationBarTitleText" : ""
+		}
+	},
+	{
 		"path" : "pages/05refuel/05refuel",
 		"style" : 
 		{
-			"navigationBarTitleText" : "就近加油",
-			"navigationBarBackgroundColor": "#3184fd",
+			"navigationBarTitleText" : "附近加油",
+			"navigationBarBackgroundColor": "#0472fe",
 			"navigationBarTextStyle": "white"
 		}
-	}],
+	},
+	{
+		"path" : "pages/05refuel/stationDel/stationDel",
+		"style" : 
+		{
+			"navigationBarTitleText" : "加油站",
+			"navigationBarBackgroundColor": "#0472fe",
+			"navigationBarTextStyle": "white"
+		}
+	},
+	{
+		"path" : "pages/06message/06message",
+		"style" : 
+		{
+			"navigationBarTitleText" : "消息",
+			"navigationBarBackgroundColor": "#0472fe",
+			"navigationBarTextStyle": "white"
+		}
+	},
+	{
+		"path" : "pages/07discount/07discount",
+		"style" : 
+		{
+			"navigationBarTitleText" : "团购优惠",
+			"navigationBarBackgroundColor": "#0472fe",
+			"navigationBarTextStyle": "white"
+		}
+	},
+	{
+		"path" : "pages/07discount/discountDel/discountDel",
+		"style" : 
+		{
+			"navigationBarTitleText" : "团购优惠",
+			"navigationBarBackgroundColor": "#0472fe",
+			"navigationBarTextStyle": "white"
+		}
+	}
+],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
